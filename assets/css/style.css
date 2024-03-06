@@ -885,6 +885,13 @@ about
   margin-left: 30px;
 }
 
+#about .right-content img {
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+  width: auto;
+}
+
 #about .right-content .thumb {
   position: relative;
 }
